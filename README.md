@@ -3,7 +3,7 @@
 ## VLANs · «Un muelle, cinco cargas» (jueves 15/10/2026, 18:00)
 
 Clase teórica de VLANs sobre la red hogareña del plan de clase, antes de la práctica con el MikroTik.
-Presentan Valentín Torassa Colombero, Martín Luraschi y Manuel Reggiardo.
+Presentan Valentín Torassa Colombero, Martín Luraschi y Manuel Regiardo.
 
 - **Para presentar:** abrí [`vlans/Un muelle, cinco cargas.html`](vlans/) en Firefox o Chrome. Funciona sin internet: las fuentes y las librerías están adentro.
 - **Teclas:** → o espacio avanza, ← vuelve, **N** muestra el glosario de la escena y **F** pone pantalla completa. `#s5` en la URL abre la escena 5.
